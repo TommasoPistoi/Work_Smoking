@@ -5380,6 +5380,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 690306616782455219, guid: ab62249bbde58e64abe8e7c3aa53ae07, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4f80c13fc40cb0147b78275b3fc5e41f, type: 2}
     - target: {fileID: 8042257888109023946, guid: ab62249bbde58e64abe8e7c3aa53ae07, type: 3}
       propertyPath: m_Name
       value: cigarettePack
