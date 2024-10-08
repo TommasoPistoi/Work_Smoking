@@ -626,10 +626,14 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Feedback_Astinenza","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Level_Manager","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Employee_Window_","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Level_name","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 217875761}
     - {fileID: 1841832155}
+    - {fileID: 895128770}
+    - {fileID: 328642410}
 --- !u!1 &381018126
 GameObject:
   m_ObjectHideFlags: 0
@@ -2134,6 +2138,11 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
+--- !u!1 &895128770 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7607646961389448221, guid: c173116599a351c4399b5f1a3484d37e, type: 3}
+  m_PrefabInstance: {fileID: 4580029067313032545}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &984578608
 GameObject:
   m_ObjectHideFlags: 0
